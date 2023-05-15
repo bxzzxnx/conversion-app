@@ -1,0 +1,16 @@
+body {
+  background-color: #555557;
+}
+
+.container {
+  padding-top: 7.5rem;
+}
+
+.conversion-date, .converted-value,.conversion-precision {
+  color: #ffc107;
+}
+
+
+.row button{
+  max-width: 50px;
+}
